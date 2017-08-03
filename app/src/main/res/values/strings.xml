@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yelper</string>
+    <string name="food_query">What kind of food are you looking for?</string>
+    <string name="location_query">Where do you want to eat?</string>
+    <string name="next_button">Next</string>
+    <string name="search_button">Search</string>
+    <string name="mobile_url">Open in Browser</string>
+    <string name="yelp_display_requirement">Powered by</string>
+    <string name="about">About</string>
+</resources>
